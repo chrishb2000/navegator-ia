@@ -1,0 +1,6 @@
+{
+  "name": "AutoNav AI Form Browser",
+  "description": "Navegador web con asistente de IA y bóveda privada local para autocompletado inteligente de formularios y flujos multipaso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
